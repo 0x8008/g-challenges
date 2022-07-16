@@ -4,7 +4,7 @@ Basically a repo for me to put in different stuff that I wrote based on the imag
 Image and motivation found in the [15th of July 2022 edition of wee/g/end code jam](https://desuarchive.org/g/thread/87748339/).
 
 # Challenges done
-|Challenge number|Challenge name|Language| 
-|--|--|--|
-|placeholder|test|rust|
+|Challenge number|Challenge name|Language|Status|
+|--|--|--|--|
+|#3|IRC Client|Node.js|WIP|
 
